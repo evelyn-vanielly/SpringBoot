@@ -23,12 +23,18 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 16dfa57ca8fc26432578ede9aed360db8ac8ddaa
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 16dfa57ca8fc26432578ede9aed360db8ac8ddaa
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
